@@ -11,4 +11,4 @@ func main(){
 func init() {
 	fmt.Println(a)
 	a = 20
-}
+} 
